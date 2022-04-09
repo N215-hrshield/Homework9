@@ -1,0 +1,29 @@
+.contact{
+    h1{
+        text-align: center;
+        margin-top: 100px;
+    }
+    .contact-box{
+        width: 80%;
+        margin: 0 auto;
+        display: flex;
+        margin-top: 100px;
+        .map{
+            width: 20%;
+            height: 200px;
+            background-image: url(../images/tour/tour-05.jpg);
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+        .form{
+            width: 80%;
+            height: 200px;
+            input{
+                width: 60%;
+                margin: 10px;
+                height: 50px;
+            }
+        }
+    }
+
+}

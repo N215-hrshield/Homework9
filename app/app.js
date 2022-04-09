@@ -21,11 +21,9 @@ function route(){
 function initListeners(){
     $(window).on("hashchange",route)
     route();
-    console.log(MODEL.myName);
 }
 
 $(document).ready(function (){
-    console.log(MODEL.myName);
 
     initListeners();
 });

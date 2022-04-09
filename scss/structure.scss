@@ -1,0 +1,30 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html, body {
+ height: 100%
+}
+h1, h2, h3, h4, h5, h6, p {
+ margin-bottom: 16px
+}
+.wrapper {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+#app{
+    min-height: calc(100vh - 100px);
+    width: 100%;
+}
+.hero{
+    height: 330px;
+    background-color: green;
+    background-image: url(../images/hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

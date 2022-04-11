@@ -1,5 +1,5 @@
-# Homework 8
+# Homework 9
 
-## https://in-info-web4.informatics.iupui.edu/~hrshield/Homework8/
+## https://in-info-web4.informatics.iupui.edu/~hrshield/Homework9/
 
-This project is intended to add in jquery and javascript to make the webpages dynamic. The goal of this is to set up four pages that are all linked to each other and have their middle content be dynamiclly switched out by which one the user clicks on in the nav bar.
+This project is intended to add in a Model View Controller to the project to make the project cleaner and more organized. The html is in the model.js file in the model folder which is called in the app.js in the app folder

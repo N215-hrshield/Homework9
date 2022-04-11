@@ -1,11 +1,5 @@
 import * as MODEL from "../model/model.js";
 
-var homeContent = `<h1>HOME</h1>`;
-var aboutContent = `<h1>about</h1>`;
-var productsContent = `<h1>products</h1>`;
-var contactContent = `<h1>contact</h1>`;
-
-
 
 function route(){
     let hashTag = window.location.hash;

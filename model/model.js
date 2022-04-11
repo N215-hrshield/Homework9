@@ -33,18 +33,18 @@ var aboutContent = `        <div class="about">
         <div class="abouttext">
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem dolorum possimus rerum temporibus aliquid sapiente vitae nam numquam adipisci alias explicabo culpa rem doloremque at facilis harum, dignissimos similique, laudantium ipsam modi blanditiis unde maxime. Blanditiis dignissimos cupiditate atque minus soluta aliquam, optio, rerum enim explicabo tempore officia deleniti asperiores.</p>
         </div>
-        <img src="../images/tour/tour-06.jpg" alt="">
+        <img src="images/tour/tour-06.jpg" alt="">
     </div>
     <div class="aboutbox">
         <div class="abouttext">
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem dolorum possimus rerum temporibus aliquid sapiente vitae nam numquam adipisci alias explicabo culpa rem doloremque at facilis harum, dignissimos similique, laudantium ipsam modi blanditiis unde maxime. Blanditiis dignissimos cupiditate atque minus soluta aliquam, optio, rerum enim explicabo tempore officia deleniti asperiores.</p>
         </div>
-        <img src="../images/tour/tour-04.jpg" alt="">
+        <img src="images/tour/tour-04.jpg" alt="">
     </div>                <div class="aboutbox">
         <div class="abouttext">
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem dolorum possimus rerum temporibus aliquid sapiente vitae nam numquam adipisci alias explicabo culpa rem doloremque at facilis harum, dignissimos similique, laudantium ipsam modi blanditiis unde maxime. Blanditiis dignissimos cupiditate atque minus soluta aliquam, optio, rerum enim explicabo tempore officia deleniti asperiores.</p>
         </div>
-        <img src="../images/tour/tour-05.jpg" alt="">
+        <img src="images/tour/tour-05.jpg" alt="">
     </div>
 </div>
 </div>`
